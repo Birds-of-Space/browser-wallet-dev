@@ -1,5 +1,6 @@
 
 # Birds of Space Wallet - Open Source
+![screenshot](https://raw.githubusercontent.com/birdsofspace/browser-wallet-dev/main/images/screenshot.png)
 
 **Introducing Birds of Space Wallet: Your Gateway to the Crypto Universe**
 Birds of Space Wallet is your passport to the vibrant world of cryptocurrency. Seamlessly integrated into your browsing experience, Birds of Space Wallet empowers you to manage your digital assets with ease and security.
