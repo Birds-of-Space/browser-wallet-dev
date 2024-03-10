@@ -1,5 +1,5 @@
 
-# Birds of Space Wallet - Open Source
+# Birds of Space Wallet
 ![screenshot](https://raw.githubusercontent.com/birdsofspace/browser-wallet-dev/main/images/screenshot.png)
 
 **Introducing Birds of Space Wallet: Your Gateway to the Crypto Universe**
